@@ -52,7 +52,9 @@ Los datos masivos nos permiten **obtener patrones** y **predecir comportamientos
 - **MongoDB** y **Cassandra** para bases de datos NoSQL
 - **Tableau** y **Power BI** para visualización avanzada
 
-### 📈 Tareas del Curso
+<p align="center">
+    📈 Tareas del Curso
+</p>
 
 <p align="center">
   <a href="tareas/01_datos_update.ipynb">Tarea 1 Datos</a> • 
