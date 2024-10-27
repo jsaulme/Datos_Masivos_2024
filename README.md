@@ -52,10 +52,18 @@ Los datos masivos nos permiten **obtener patrones** y **predecir comportamientos
 - **MongoDB** y **Cassandra** para bases de datos NoSQL
 - **Tableau** y **Power BI** para visualización avanzada
 
-### 📈 Visualización Interactiva
+### 📈 Tareas del Curso
 
-- Power BI para informes de datos masivos en tiempo real.
-- **[Tableau Public](https://public.tableau.com)**: Explora ejemplos de visualizaciones avanzadas que permiten análisis detallado.
+<p align="center">
+  <a href="tareas/01_datos_update.ipynb">Tarea 1 Datos</a> • 
+  <a href="tareas/02_estadisticos_update.ipynb">Tarea 2 Estadisticos</a> •
+  <a href="tareas/03_sel_caract_updated.ipynb">Tarea 3 Seleccion de Caracteristicas</a> •
+  <a href="tareas/04_no_supervisado_updated.ipynb">Tarea 4 No Supervisado</a> •
+  <a href="tareas/05_Aprendizaje_Supervisado.ipynb">Tarea 5 Aprendizaje Supervisado</a> •
+  <a href="tareas/06_Clasificacion.ipynb">Tarea 6 Clasificacion</a> • 
+  <a href="tareas/06_Clasificacion.ipynb#07_Metricas">Tarea 7 Metricas Desempenio</a> •
+  <a href="tareas/08_Metricas_Desempeno.ipynb">Tarea 8 Metricas de Desempenio</a> •
+  <a href="tareas/09_Diseño_Experimental.ipynb">Tarea 9 Disenio experimental</a> •
 
 ---
 
